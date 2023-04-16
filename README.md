@@ -1,0 +1,2 @@
+# JarHelper
+WindowsでJavaが入ってなくてもJarファイルを開けるやつ
